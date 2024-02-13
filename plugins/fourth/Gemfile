@@ -1,1 +1,1 @@
-gem "jwt", "2.7.2"
+gem "sorbet-runtime", "0.5.11164"
